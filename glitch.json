@@ -1,0 +1,16 @@
+{
+  "start": "bash start.sh",
+  "watch": {
+    "ignore": [
+      "\\.pyc$",
+      "__pycache__",
+      "node_modules",
+      "user_chats"
+    ]
+  },
+  "install": {
+    "include": [
+      "^requirements\\.txt$"
+    ]
+  }
+} 
