@@ -1,0 +1,14 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Logs
+*.log
+
+# User data
+user_chats/
+
+# IDE
+.vscode/
+.idea/ 
